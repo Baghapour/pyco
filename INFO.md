@@ -1,2 +1,4 @@
-INFORMATION TO PYCO
-===================
+INFORMATION TO PYCO:
+
+* Required packages:
+- numpy
